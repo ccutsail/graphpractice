@@ -13,3 +13,5 @@ Original data for the other .csv file is here: https://www.govtrack.us/congress/
 It has been cleaned in the same way, with the codes for senators identical to the codes in the previous dataset to ensure consistency.
 
 Sagegraph.ipynb is hosted as a Jupyter notebook, but should be hosted as a Sage worksheet. Sage's terminal is unintuitive, and I don't have the desktop application. Copy and paste the contents to a Sage worksheet, and ensure that the voting data is in the same directory/folder on SageMathCloud. It should then compile properly. 
+
+The TTCvis file is a visualization of the top trading cycle algorithm posted on my blog on July 4, 2016 under the title "Week in Review Part 4 Part 2"
